@@ -56,10 +56,11 @@ Tras esto al determinar que hay descompensación en los datos creamos valores si
 
 ### Aplicación del modelo a los datos
 
-Tras obtener el mejor modelo posible aplicamos este al DataFrame con los jugadores seleccionables para el draft de 2019 obteniendo los siguientes resultados.
+Tras obtener el mejor modelo posible aplicamos este al DataFrame con los jugadores seleccionables para el draft de 2019 y los jugadores que en algún momento de su carrera participarán en el All Star
+
+
+## Libro de código
  
-
-
 Código de referencia de siglas para las tablas.
        
     Name: Nombre del jugador
